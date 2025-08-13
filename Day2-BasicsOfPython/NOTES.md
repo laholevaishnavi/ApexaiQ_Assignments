@@ -92,7 +92,7 @@ except ExceptionType:
     
 ```
 
-##Common Exception Types
+## Common Exception Types
 
 ZeroDivisionError → Dividing by zero.
 
@@ -102,7 +102,7 @@ FileNotFoundError → Missing file.
 
 TypeError → Wrong data type used.
 
-##Catching all the exceptions
+## Catching all the exceptions
 
 ```python
 try:
